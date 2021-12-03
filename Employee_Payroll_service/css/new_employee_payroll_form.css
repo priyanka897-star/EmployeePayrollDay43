@@ -101,12 +101,12 @@
    }
    
    /* UC 3 */
-   .profile-ratio-content {
+   .profile-radio-content {
        display: flex;
        flex-direction: row;
    }
 
-   .profile-ratio-content > label {
+   .profile-radio-content > label {
        display: flex;
        flex-direction: row;
        align-items: center;
